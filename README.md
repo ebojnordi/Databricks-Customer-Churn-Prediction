@@ -11,8 +11,8 @@ The project follows a simple **Medallion Architecture**:
 
 **Raw Data → Bronze → Silver → Gold → Machine Learning → Predictions & Insights**
 
-### Architecture
 
+![Databricks Architecture](images/databricks_architecture.png)
 
 **Bronze**
 
