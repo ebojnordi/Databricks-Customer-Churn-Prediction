@@ -92,29 +92,6 @@ The two models produced very similar ROC-AUC scores. Logistic Regression achieve
 This highlights why model evaluation should consider the business objective rather than relying on accuracy alone.
 
 
-### Project Structure
-
-```
-databricks-customer-churn/
-│
-├── README.md
-│
-├── notebooks/
-│   ├── 01_bronze_ingestion.py
-│   ├── 02_silver_transformation.py
-│   ├── 03_gold_features.py
-│   └── 04_model_training.py
-│
-├── images/
-│   ├── architecture.png
-│   ├── churn_by_contract.png
-│   └── model_comparison.png
-│
-└── sql/
-    └── analysis.sql
-
-```
-
 ### Next Steps
 
 The project is being extended with:
