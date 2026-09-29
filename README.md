@@ -58,11 +58,8 @@ The dataset contains 7,043 customers.
 
 One of the strongest patterns observed was the difference in churn across contract types:
 
-| Contract | Churn Rate |
-|:---|:---|
-| Month-to-month|	42.7% |
-| One year	    | 11.3% |
-| Two year	    | 2.8% |
+
+![churn across contract types](images/churn_by_contract.png)
 
 
 
